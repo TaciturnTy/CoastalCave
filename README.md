@@ -1,6 +1,8 @@
 # CoastalCave
 Fallout 4 Settlement Mod
 
+This is a zip of the plugin and scripts for my Fallout 4 settlement mod. The mod is also available on Nexus Mods and Bethesda.net for PC.
+
 Description
 -----------------------
 For those that believe there are not enough underground locations in the game or are looking for a player home in a dark, 
